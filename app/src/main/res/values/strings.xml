@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Home Icon -->
+    <string name="ic_home">🏠</string>
+    <!-- Encyclopedia Icon -->
+    <string name="ic_encyclopedia">📚</string>
+    <!-- Search Icon -->
+    <string name="ic_search">🔍</string>
+    <!-- Topics Icon -->
+    <string name="ic_topics">📖</string>
+</resources>
